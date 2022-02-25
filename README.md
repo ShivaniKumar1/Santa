@@ -10,5 +10,5 @@ It is assumed that the reindeer do not want to leave the tropics, and therefore 
 The last reindeer to arrive must get Santa while the others wait in a warming hut before being harnessed to the sleigh. 
 
 # The goal is to:
-•	Understand how to implement deferred termination of threads from scratch
-•	Learn how to use semaphores 
+- Understand how to implement deferred termination of threads from scratch
+- Learn how to use semaphores 
