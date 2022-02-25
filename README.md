@@ -7,3 +7,7 @@ To allow Santa to get some sleep, the elves can only wake him when three of them
 When three elves are having their problems solved, any other elves wishing to visit Santa must wait for those elves to return. \
 It is assumed that the reindeer do not want to leave the tropics, and therefore stay there until the last possible moment – they only return in December. \
 The last reindeer to arrive must get Santa while the others wait in a warming hut before being harnessed to the sleigh. 
+
+# The goal is to:
+•	Understand how to implement deferred termination of threads from scratch
+•	Learn how to use semaphores 
